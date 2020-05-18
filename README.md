@@ -1,6 +1,6 @@
 ## Mouse Lifespan Synaptome Atlas code repository
 
-Created by Zhen Qiu (z.qiu@ed.ac.uk) and  Seth Grant (seth.grant@ed.ac.uk)
+Created by Zhen Qiu (z.qiu@ed.ac.uk), Erik Fransén (Fransén) and  Seth Grant (seth.grant@ed.ac.uk)
 
 
 ### Introduction
@@ -47,6 +47,9 @@ Matlab code to plot the hypersimilarity matrix (Figure 3D) of hippocampal format
 Matlab code to calculate and plot the lifespan trajectories of similarity ratio(Figure 3B).
 #### 14. plot_ratio_withintobetweenregion_per_region
 Matlab code to calculate and plot the lifespan trajectories of similarity ratio  in 12 brain regions (Figure S17).
+
+####15. synaptomeModel
+Matlab code to build computational model (Figures 4B and S22) that illustrates how lifespan synaptome changes affect synaptic responses to distinct temporal patterns of neural activity 
 
 
 ### References
